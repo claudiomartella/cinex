@@ -1,1 +1,1 @@
-print "cirpo", "culo"
+print "cirpo", "c***"
